@@ -2,4 +2,5 @@
 
 |#|Title|Solution|Difficulty|
 |---|---|---|---|
-|1|[Data Science Skills](https://datalemur.com/questions/matching-skills)|[PostgreSQL](https://github.com/disha9896/Data-Lemur/blob/main/data_science.sql)|Easy|
+|1|[Data Science Skills](https://datalemur.com/questions/matching-skills)|[PostgreSQL](https://github.com/disha9896/Data-Lemur/blob/main/1_data_science.sql)|Easy|
+|2|[Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes)|[PostgreSQL](https://github.com/disha9896/Data-Lemur/blob/main/2_page_noLikes.sql)|Easy|
